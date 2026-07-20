@@ -107,10 +107,8 @@ Full-Stack Software Engineer based in **Dhaka, Bangladesh**, focused on building
 | Project | Description | Tech | Links |
 | :--- | :--- | :--- | :--- |
 | **3 Dots Headwear** | Immersive e-commerce platform with real-time 3D headwear customization, cart, and secure checkout. | MERN · Three.js · R3F | [Live](https://3dotsheadwear.com) |
-| **Hotel Booking** | Full-stack reservation portal with secure auth, calendar booking, search, and dynamic filters. | Next.js · TypeScript · Auth.js · MongoDB | [Live](https://hotel-booking-hz5k.vercel.app/) · [Code](https://github.com/jcmshafi) |
-| **DevPulse** | Issue-tracking REST API with RBAC authorization and JWT credentials. | TypeScript · Express 5 · PostgreSQL | [Code](https://github.com/jcmshafi) |
-
-> 💡 **Reminder:** Pin these 3 repositories on your profile, and make sure each one's **Description** field includes a short overview + live link + tech stack, and each **README** has an overview, screenshot, main tech, features, dependencies, and a local setup guide.
+| **Hotel Booking** | Full-stack reservation portal with secure auth, calendar booking, search, and dynamic filters. | Next.js · TypeScript · Auth.js · MongoDB | [Live](https://hotel-booking-hz5k.vercel.app/) |
+| **DevPulse** | Issue-tracking REST API with RBAC authorization and JWT credentials. | TypeScript · Express 5 · PostgreSQL | [Code](https://github.com/jcmshafi/a2devpulse) |
 
 ---
 
