@@ -134,7 +134,7 @@ Full-Stack Software Engineer based in **Dhaka, Bangladesh**, focused on building
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://jcmshafi.vercel.app">
+  <a href="https://personal-portfolio-henna-ten-63.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/shafiujjaman-shafi">
