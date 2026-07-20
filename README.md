@@ -1,8 +1,21 @@
+<!-- ===== Banner ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0055FF&height=200&section=header&text=Shafiujjaman%20Shafi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20MERN&descSize=16&descAlignY=56" alt="Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shafiujjaman Shafi</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+TypeScript+%7C+MERN;I+build+scalable%2C+performance-driven+web+apps;3D+interfaces%2C+SSR+%26+secure+auth" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- ===== Location & Email ===== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/📍%20Based%20in-Dhaka,%20Bangladesh-38BDF8?style=flat-square" alt="Location" />
+  <a href="mailto:jcmshafi96@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-jcmshafi96@gmail.com-D14836?style=flat-square" alt="Email" />
   </a>
 </p>
 
@@ -17,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-Full-Stack Software Engineer based in **Bangladesh**, focused on building production-grade web applications with an emphasis on **performance optimization, SEO structure, and secure client-server workflows**.
+Full-Stack Software Engineer based in **Dhaka, Bangladesh**, focused on building production-grade web applications with an emphasis on **performance optimization, SEO structure, and secure client-server workflows**.
 
 - 🔭 I build scalable web apps with **React.js, Next.js, TypeScript, and the MERN stack**
 - 🎨 I craft **custom 3D web configurators** using Three.js / React Three Fiber (R3F)
@@ -97,6 +110,8 @@ Full-Stack Software Engineer based in **Bangladesh**, focused on building produc
 | **Hotel Booking** | Full-stack reservation portal with secure auth, calendar booking, search, and dynamic filters. | Next.js · TypeScript · Auth.js · MongoDB | [Live](https://hotel-booking-hz5k.vercel.app/) · [Code](https://github.com/jcmshafi) |
 | **DevPulse** | Issue-tracking REST API with RBAC authorization and JWT credentials. | TypeScript · Express 5 · PostgreSQL | [Code](https://github.com/jcmshafi) |
 
+> 💡 **Reminder:** Pin these 3 repositories on your profile, and make sure each one's **Description** field includes a short overview + live link + tech stack, and each **README** has an overview, screenshot, main tech, features, dependencies, and a local setup guide.
+
 ---
 
 ## 📊 GitHub Stats
@@ -136,3 +151,8 @@ Full-Stack Software Engineer based in **Bangladesh**, focused on building produc
 ---
 
 <p align="center"><i>"The secret of change is to focus all of your energy, not on fighting the old, but on building the new." — Socrates</i></p>
+
+<!-- ===== Footer ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055FF,100:38BDF8&height=120&section=footer" alt="Footer" />
+</p>
